@@ -1,0 +1,9 @@
+h1. HivePaint
+
+Hive Paint was created on a whim thanks to this "Reddit thread":http://www.reddit.com/r/AskReddit/comments/aja6f/could_somebody_do_a_quick_drawing_for_my/ . It is the goal to specifically meet "this spec":http://www.reddit.com/r/AskReddit/comments/aja6f/could_somebody_do_a_quick_drawing_for_my/c0huyu8
+
+quote. How about a simple site where people can submit a drawing idea and others can upload their drawings (or draw on the site via flash). Might be cool if professional artists could join and then communities like Reddit could pay for an awesome drawing by having everyone chip in 10 cents. Artists make money, Reddit can get a drawing of any insane thing its hive mind can think up.
+
+h1. Can we do it?
+
+Faster than you think :)
